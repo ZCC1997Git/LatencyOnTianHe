@@ -149,3 +149,5 @@ __global__ void latency_vector(int iterations)
     
     vector_free(p);
 }
+
+
